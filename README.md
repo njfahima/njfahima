@@ -1,5 +1,4 @@
 <h1 align="center">Assalamualaikum I'm Nusrat Jahan Fahima</h1>
-<h3 align="center">I am passionate about problem solving.</h3>
 
 - 🌱 I’m currently learning **Basic C programming , c++ , Data structure , Algorithm**
 
