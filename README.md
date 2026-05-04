@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Basic C programming , c++ , Data structure , Algorithm**
 
-- 📫 How to contact me **fahimanevy@gmail.com**
+- 📫 contact me  **fahimanevy@gmail.com**
 
 <h3 align="left">view my profiles:</h3>
 <p align="left">
