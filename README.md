@@ -8,5 +8,5 @@ If you want to learn how I do it, contact with me!
 
 ### Fun Facts:  
 - I have a business , where i'm selling organic products  
-- Hobbies: building things ,
+- Hobbies: building new things and logics .
 - Hunger about researching new flowers and their lives
