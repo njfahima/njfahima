@@ -1,5 +1,6 @@
 hey There! 🎉  
-I'm Fahima, a computer science and engineering student in Bangladesh.  
+I'm [Fahima](https://www.facebook.com/share/1J4EtF9kVL/), a design engineer based in Germany.  
+I design and build whatever I can imagine., a computer science and engineering student in Bangladesh.  
 I passionate about problem solving .  
 I solve different type of problem on codeforce , codechef , leetcode , vjudge , Atcoder 
 My main tech stack is c programming , c++ , Data structure , Algorithm , Java , Python . My favorite tools are  vs code , codeblock and procreate on my laptop.  
