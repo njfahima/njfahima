@@ -2,7 +2,7 @@ hey There! 🎉
 I'm [Fahima](https://www.facebook.com/share/1J4EtF9kVL/), a Computer science and engineering student in Bangladesh.  
 I design and build whatever I can imagine..  
 I passionate about problem solving .  
-I solve different type of problem on codeforce , codechef , leetcode , vjudge , Atcoder 
+I solve different type of problem on codeforce , codechef , leetcode , vjudge , Atcoder .
 My main tech stack is c programming , c++ , Data structure , Algorithm , Java , Python . My favorite tools are  vs code , codeblock and procreate on my laptop.  
 I've got a bunch of pinned projects, but my favorite is music streamstats.   
 If you want to learn how I do it, contact with me!  
